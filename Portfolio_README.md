@@ -8,7 +8,7 @@ jgraff@syr.edu
 209-485-8026
 SUID: 256450200
 
-Table of Contents:\n
+Table of Contents:
 IST 687: Intro to Data Science Project Code (R)
 IST 719: Information Visualization Project Code (R)
 IST 719: Information Visualization Project PDF - Finished Product

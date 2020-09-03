@@ -16,7 +16,7 @@ Table of Contents:
 
 IST 687: Intro to Data Science Project Code (R)
 
-IST 719: Information Visualization Project Code (R)
+IST 719: Information Visualization Project Code (Word document with R code copied onto it)
 
 IST 719: Information Visualization Project PDF - Finished Product
 

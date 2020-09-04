@@ -12,7 +12,7 @@ jgraff@syr.edu
 SUID: 256450200
 
 
-Table of Contents:
+# Table of Contents:
 
 IST 687: Intro to Data Science Project Code (R)
 

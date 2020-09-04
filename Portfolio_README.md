@@ -25,6 +25,9 @@ IST 736: Text Mining Project Code (python file)
 IST 718: Big Data Analytics Lab Code (python file)
 
 Professional Resume
+
 Portfolio Write Up
+
 Portfolio Presentation
+
 Portfolio Presentation Video
